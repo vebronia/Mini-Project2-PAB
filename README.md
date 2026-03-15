@@ -82,7 +82,7 @@ Aplikasi ini dikembangkan sebagai lanjutan dari Mini Project 1 dengan peningkata
 <br>
 
 <div align="center">
-  <img width="350" alt="Tambah Destinasi" src="assets/screenshots/tambah.png" />
+  <img width="350" alt="Tambah Destinasi" src="assets/screenshots/add.png" />
 </div>
 
 <p align="center">
@@ -291,7 +291,7 @@ mini_project2_pab/
 │  └─ screenshots/
 │     ├─ home.png
 │     ├─ filter.png
-│     ├─ tambah.png
+│     ├─ add.png
 │     ├─ edit.png
 │     ├─ detail.png
 │     ├─ delete.png
