@@ -189,7 +189,7 @@ Aplikasi ini dikembangkan sebagai lanjutan dari Mini Project 1 dengan peningkata
 <br>
 
 <div align="center">
-  <img width="768" alt="Hapus Destinasi" src="assets/screenshots/home.png" />
+  <img width="350" alt="Hapus Destinasi" src="assets/screenshots/delete.png" />
 </div>
 
 <p align="center">
@@ -206,8 +206,6 @@ Aplikasi ini dikembangkan sebagai lanjutan dari Mini Project 1 dengan peningkata
 </div>
 
 </details>
-
-<details>
 <summary><b>8. Fitur Pencarian</b></summary>
 <br>
 
