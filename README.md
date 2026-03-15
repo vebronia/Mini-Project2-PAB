@@ -5,6 +5,7 @@
 |-----------------------|------------|------------------|
 | Vebronia Vitania Lusi | 2409116112 | Sistem Informasi C |
 
+---
 
 ## Deskripsi Aplikasi
 
@@ -21,6 +22,7 @@ Setiap destinasi memiliki beberapa informasi penting, seperti:
 
 Aplikasi ini dikembangkan sebagai lanjutan dari Mini Project 1 dengan peningkatan pada **desain antarmuka**, **halaman detail**, **fitur pencarian**, **filter kategori destinasi**, dan **fitur rating destinasi**.
 
+---
 
 ## Fitur Aplikasi
 
@@ -29,7 +31,7 @@ Aplikasi ini dikembangkan sebagai lanjutan dari Mini Project 1 dengan peningkata
 <br>
 
 <div align="center">
- <img width="768" alt="Halaman Utama" src="assets/screenshots/home.png" />
+  <img width="350" alt="Halaman Utama" src="assets/screenshots/home.png" />
 </div>
 
 <p align="center">
@@ -56,7 +58,7 @@ Aplikasi ini dikembangkan sebagai lanjutan dari Mini Project 1 dengan peningkata
 <br>
 
 <div align="center">
-  <img width="768" alt="Filter Kategori" src="assets/screenshots/filter.png" />
+  <img width="350" alt="Filter Kategori" src="assets/screenshots/filter.png" />
 </div>
 
 <p align="center">
@@ -80,7 +82,7 @@ Aplikasi ini dikembangkan sebagai lanjutan dari Mini Project 1 dengan peningkata
 <br>
 
 <div align="center">
-  <img width="768" alt="Tambah Destinasi" src="assets/screenshots/add.png" />
+  <img width="350" alt="Tambah Destinasi" src="assets/screenshots/tambah.png" />
 </div>
 
 <p align="center">
@@ -109,7 +111,7 @@ Aplikasi ini dikembangkan sebagai lanjutan dari Mini Project 1 dengan peningkata
 <br>
 
 <div align="center">
-  <img width="768" alt="Daftar Destinasi" src="assets/screenshots/home.png" />
+  <img width="350" alt="Daftar Destinasi" src="assets/screenshots/home.png" />
 </div>
 
 <p align="center">
@@ -134,7 +136,7 @@ Aplikasi ini dikembangkan sebagai lanjutan dari Mini Project 1 dengan peningkata
 <br>
 
 <div align="center">
-  <img width="768" alt="Detail Destinasi" src="assets/screenshots/detail.png" />
+  <img width="350" alt="Detail Destinasi" src="assets/screenshots/detail.png" />
 </div>
 
 <p align="center">
@@ -160,7 +162,7 @@ Aplikasi ini dikembangkan sebagai lanjutan dari Mini Project 1 dengan peningkata
 <br>
 
 <div align="center">
-  <img width="768" alt="Edit Destinasi" src="assets/screenshots/edit.png" />
+  <img width="350" alt="Edit Destinasi" src="assets/screenshots/edit.png" />
 </div>
 
 <p align="center">
@@ -207,12 +209,12 @@ Aplikasi ini dikembangkan sebagai lanjutan dari Mini Project 1 dengan peningkata
 
 </details>
 
-</details>
+<details>
 <summary><b>8. Fitur Pencarian</b></summary>
 <br>
 
 <div align="center">
-  <img width="768" alt="Search Destination" src="assets/screenshots/home.png" />
+  <img width="350" alt="Search Destination" src="assets/screenshots/home.png" />
 </div>
 
 <p align="center">
@@ -227,7 +229,7 @@ Aplikasi ini dikembangkan sebagai lanjutan dari Mini Project 1 dengan peningkata
 <br>
 
 <div align="center">
-  <img width="768" alt="Beri Rating" src="assets/screenshots/rating.png" />
+  <img width="350" alt="Beri Rating" src="assets/screenshots/rating.png" />
 </div>
 
 <p align="center">
@@ -250,12 +252,10 @@ Aplikasi ini dikembangkan sebagai lanjutan dari Mini Project 1 dengan peningkata
 <summary><b>10. Tampilan UI Modern</b></summary>
 <br>
 
-<div align="center">
-  <p align="center">
-    <b><em>Modern User Interface</em></b><br>
-    Aplikasi menggunakan desain antarmuka modern dengan perpaduan warna gelap dan gradasi biru-hijau, sehingga memberikan kesan elegan dan nyaman digunakan.
-  </p>
-</div>
+<p align="center">
+  <b><em>Modern User Interface</em></b><br>
+  Aplikasi menggunakan desain antarmuka modern dengan perpaduan warna gelap dan gradasi biru-hijau, sehingga memberikan kesan elegan dan nyaman digunakan.
+</p>
 
 </details>
 
@@ -282,12 +282,17 @@ mini_project2_pab/
 │  │  └─ destination.dart
 │  ├─ pages/
 │  │  ├─ home_page.dart
-│  │  ├─ add_destination_page.dart
-│  │  ├─ edit_destination_page.dart
-│  │  └─ detail_destination_page.dart
-│  ├─ widgets/
-│  │  └─ destination_card.dart
+│  │  ├─ add_page.dart
+│  │  ├─ detail_page.dart
+│  │  └─ edit_page.dart
 │
 ├─ assets/
-│  ├─ images/
+│  ├─ bg.jpg
 │  └─ screenshots/
+│     ├─ home.png
+│     ├─ filter.png
+│     ├─ tambah.png
+│     ├─ edit.png
+│     ├─ detail.png
+│     ├─ delete.png
+│     └─ rating.png
