@@ -206,6 +206,8 @@ Aplikasi ini dikembangkan sebagai lanjutan dari Mini Project 1 dengan peningkata
 </div>
 
 </details>
+
+</details>
 <summary><b>8. Fitur Pencarian</b></summary>
 <br>
 
